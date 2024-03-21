@@ -1,2 +1,2 @@
 # Repositorio_1
-Segundo repositorio de prueba creo
+Primer repositorio exitoso con gitbash
